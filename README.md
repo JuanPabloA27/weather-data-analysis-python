@@ -28,10 +28,13 @@ The application allows the user to select a period and visualize different meteo
 * Functions
 * Conditional statements and loops
 
-## Academic Context
+## Academic context
 
-Developed for Phase 2 of the Programming Computers course at  Pontifical Catholic University of Rio Grande do Sul (PUCRS), 2026.
+Project developed as part of the undergraduate studies in Databases at the Pontifical Catholic University of Rio Grande do Sul (PUCRS).
 
+---
+
+*Academic project for study purposes and to demonstrate knowledge of relational databases.*
 
 ## Author
 
