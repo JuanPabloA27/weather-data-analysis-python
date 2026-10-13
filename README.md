@@ -30,7 +30,7 @@ The application allows the user to select a period and visualize different meteo
 
 ## Academic Context
 
-Developed for Phase 2 of the Programming Computers course at Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), 2026.
+Developed for Phase 2 of the Programming Computers course at  Pontifical Catholic University of Rio Grande do Sul (PUCRS), 2026.
 
 ## Author
 
