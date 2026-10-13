@@ -32,6 +32,7 @@ The application allows the user to select a period and visualize different meteo
 
 Developed for Phase 2 of the Programming Computers course at  Pontifical Catholic University of Rio Grande do Sul (PUCRS), 2026.
 
+
 ## Author
 
 Juan Pablo Antunes Fraga
